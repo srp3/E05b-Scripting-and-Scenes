@@ -1,4 +1,5 @@
-# E05b-Scripting-and-Scenes
+# E05b-Scripting-and-Scenes sunny patel 2020
+this completes the project.
 
 To continue to prepare you to turn in the space shooter project, we will experiment a little with more scripting, some procedural generation, and switching scenes in GDScript.
 
